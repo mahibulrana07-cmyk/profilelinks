@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposal for [Their Name]</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f0f0; text-align: center; padding: 50px; }
+        h1 { color: #ff69b4; }
+        img { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <h1>Hey [Their Name], I have something to ask...</h1>
+    <p>You mean the world to me. [Personal message here]</p>
+    <img src="your-photo.jpg" alt="Us together">
+    <a href="#proposal">Click here for the big question</a>
+    <div id="proposal">
+        <h2>Will you go out with me?</h2>
+        <button onclick="alert('Yay!')">Yes!</button>
+    </div>
+</body>
+</html>
